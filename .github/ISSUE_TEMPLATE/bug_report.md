@@ -19,6 +19,7 @@ Please elaborate on what you tried before opening this issue.
 
 ## Before creating this issue I have:
 <!-- Put an X (capital X,no space) in the boxes to tick them, like this [X] -->
+**Required**
 - [ ] Read through the pinned issues for related problems
 - [ ] Searched for [similar issues](https://github.com/haugene/docker-transmission-openvpn/issues)
 - [ ] [Read the documentation](https://haugene.github.io/docker-transmission-openvpn/). Especially the troubleshooting section and FAQ
@@ -37,7 +38,7 @@ Please elaborate on what you tried before opening this issue.
 <!-- A clear and concise description of what the bug is. -->
 <!-- Check your logs and compare it with the FAQ section of the documentation -->
 
-
+**Required**
 ```
 <-- placeholder -->
 ```
@@ -53,7 +54,7 @@ Please elaborate on what you tried before opening this issue.
  -->
 <!-- (please paste into the code block) -->
 
-
+**Required**
 ```
 <-- Paste here -->
 ```
@@ -62,7 +63,7 @@ Please elaborate on what you tried before opening this issue.
 <!-- To understand how your container is running, provide the docker run command or the docker-compose.yml file you used to start it. If you're using Portainer e.g. or other GUI, please export the config to text (Portainer > Inspect containter > Set to Text > Copy Config section) -->
 <!-- (please paste into the code block) -->
 
-
+**Required**
 ```
 <-- Paste here -->
 ```
@@ -85,7 +86,7 @@ Make sure you include all the log-->
 2021-02-19 08:41:43 Initialization Sequence Completed
 -->
 
-
+**Required**
 ```
 <-- Paste here -->
 ```
@@ -95,7 +96,7 @@ Make sure you include all the log-->
 Which version of Docker are you using? -->
 <!-- (please paste into the code block) -->
 
-
+**Required**
 ```
 <-- Paste here -->
 ```

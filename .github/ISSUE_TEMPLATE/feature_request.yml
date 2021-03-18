@@ -1,0 +1,46 @@
+name: New feature for docker-transmission-openvpn
+description: Request a new feature for docker-transmission-openvpn
+title: ""
+issue_body: true
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This issue form is for requesting new features or changes to current behaviour.
+
+        If you are reporting a bug with the base container, please create a [bug report][br].
+        If you are requesting new providers, please open a [feature request][fr] on our [Provider repo][fr].
+        [br]: https://github.com/haugene/docker-transmission-openvpn/issues/new?assignees=&labels=bug&template=bug_report.yml&title=
+        [fr]: https://github.com/haugene/vpn-configs-contrib/issues
+  - type: textarea
+    validations:
+      required: true
+    attributes:
+      label: The problem
+      description: >-
+        A clear and concise description of what the problem is. 
+        Ex. I'm always frustrated when [...] 
+
+        Provide a clear and concise description of what the problem is.
+  - type: textarea
+    validations:
+      required: true
+    attributes:
+      label: The solution
+      description: >-
+        Provide a clear and concise description of what you want to happen.
+  - type: textarea
+    attributes:
+      label: Alternatives
+      description: >-
+        Provide a clear and concise description of any alternative solutions or features you've considered.
+  - type: markdown
+    attributes:
+      value: |
+        ## Additional information
+  - type: markdown
+    attributes:
+      value: >
+        If you have any additional information for us, use the field below.
+        Please note, you can attach screenshots or screen recordings here, by
+        dragging and dropping files in the field below.

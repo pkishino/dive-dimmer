@@ -7,13 +7,14 @@ assignees: ''
 
 ---
 
-<!-- NB: PLEASE READ
+<!-- **PLEASE READ**
 
 We expect you to look through the links provided in the checklist below
 and investigate your issue before you submit a new one.
 Please elaborate on what you tried before opening this issue.
 
-<b>If you do not follow the template and show that you have done this, your issue will be closed automatically</b>
+**If you do not follow the template and show that you have done this, your issue will be closed automatically**
+*Please preview your issue before posting to make sure the template is properly filled in*
 -->
 
 ## Before creating this issue I have:
@@ -23,7 +24,7 @@ Please elaborate on what you tried before opening this issue.
 - [] [Read the documentation](https://haugene.github.io/docker-transmission-openvpn/). Especially the troubleshooting section and FAQ
 - [] Tried to add as much relevant information to the issue as possible
 - [] Verified I have tried using newest release as well
-- [] Agree that my issue will be closed if I do not follow this template and will remain closed until I complete the template
+- [] Agreed that my issue will be closed if I do not follow this template and will remain closed until I complete the template
 
 
 ### Container version & last working release
@@ -35,6 +36,8 @@ Please elaborate on what you tried before opening this issue.
 ### Describe the problem
 <!-- A clear and concise description of what the bug is. -->
 <!-- Check your logs and compare it with the FAQ section of the documentation -->
+
+
 ```
 <-- placeholder -->
 ```
@@ -49,6 +52,8 @@ Please elaborate on what you tried before opening this issue.
      6) ...
  -->
 <!-- (please paste into the code block) -->
+
+
 ```
 <-- Paste here -->
 ```
@@ -56,6 +61,8 @@ Please elaborate on what you tried before opening this issue.
 ### Add your docker run command or docker-compose file or env details
 <!-- To understand how your container is running, provide the docker run command or the docker-compose.yml file you used to start it. If you're using Portainer e.g. or other GUI, please export the config to text (Portainer > Inspect containter > Set to Text > Copy Config section) -->
 <!-- (please paste into the code block) -->
+
+
 ```
 <-- Paste here -->
 ```
@@ -77,6 +84,8 @@ Make sure you include all the log-->
 2021-02-19 08:41:43 /sbin/ip route add 128.0.0.0/1 via xx.xx.xx.xx
 2021-02-19 08:41:43 Initialization Sequence Completed
 -->
+
+
 ```
 <-- Paste here -->
 ```
@@ -85,6 +94,8 @@ Make sure you include all the log-->
 <!-- Are you running on Ubuntu, a NAS, Raspberry Pi, Mac OS or something else?
 Which version of Docker are you using? -->
 <!-- (please paste into the code block) -->
+
+
 ```
 <-- Paste here -->
 ```

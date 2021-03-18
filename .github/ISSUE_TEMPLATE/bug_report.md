@@ -18,8 +18,8 @@ Please elaborate on what you tried before opening this issue.
 -->
 
 ## Before creating this issue I have:
-<!-- Put an X (capital X,no space) in the boxes to tick them, like this [X] -->
-**Required**
+<!-- Put an X (no space) in the boxes to tick them, like this [X], check *Preview Issue* to make sure they are ticked -->
+**REQUIRED**
 - [ ] Read through the pinned issues for related problems
 - [ ] Searched for [similar issues](https://github.com/haugene/docker-transmission-openvpn/issues)
 - [ ] [Read the documentation](https://haugene.github.io/docker-transmission-openvpn/). Especially the troubleshooting section and FAQ
@@ -30,17 +30,22 @@ Please elaborate on what you tried before opening this issue.
 
 ### Container version & last working release
 <!-- Please post the version you are using -->
-**Required, Problem occurs in :** <!-- Release tag and/or build number --> ```<placeholder>```
-<br>
-*If possible, Last working version:* <!-- Release tag and/or build number --> ```<placeholder>```
+**Required, problem occurs in :** 
+<!-- Release tag and/or build number --> 
+```<placeholder>```
+
+
+*If possible, last working version:* 
+<!-- Release tag and/or build number --> 
+```<Leave empty if not known>```
 
 ### Describe the problem
 <!-- A clear and concise description of what the bug is. -->
 <!-- Check your logs and compare it with the FAQ section of the documentation -->
 
-**Required**
-```
-<-- placeholder -->
+**REQUIRED**
+```txt
+<placeholder>
 ```
 ### Describe the steps you have tried to solve the problem
 <!-- A list of steps -->
@@ -54,8 +59,8 @@ Please elaborate on what you tried before opening this issue.
  -->
 <!-- (please paste into the code block) -->
 
-**Required**
-```
+**REQUIRED**
+```txt
 <-- Paste here -->
 ```
 
@@ -63,8 +68,8 @@ Please elaborate on what you tried before opening this issue.
 <!-- To understand how your container is running, provide the docker run command or the docker-compose.yml file you used to start it. If you're using Portainer e.g. or other GUI, please export the config to text (Portainer > Inspect containter > Set to Text > Copy Config section) -->
 <!-- (please paste into the code block) -->
 
-**Required**
-```
+**REQUIRED**
+```txt
 <-- Paste here -->
 ```
 
@@ -86,8 +91,8 @@ Make sure you include all the log-->
 2021-02-19 08:41:43 Initialization Sequence Completed
 -->
 
-**Required**
-```
+**REQUIRED**
+```txt
 <-- Paste here -->
 ```
 
@@ -96,7 +101,8 @@ Make sure you include all the log-->
 Which version of Docker are you using? -->
 <!-- (please paste into the code block) -->
 
-**Required**
-```
+**REQUIRED**
+```txt
 <-- Paste here -->
 ```
+<!-- check *Preview Issue* before submitting -->
